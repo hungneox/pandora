@@ -10,7 +10,7 @@ Usage
 ======
 
 
-```
+```php
 class Keyboard {}
 class Monitor {}
 
