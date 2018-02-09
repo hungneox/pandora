@@ -16,6 +16,11 @@
             "Neox\\Pandora\\Tests\\": "tests"
         }
     },
+    "scripts": {
+        "test": [
+            "phpunit --testsuite unit"
+        ]
+    },
     "license": "MIT",
     "authors": [
         {
