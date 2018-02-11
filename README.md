@@ -1,6 +1,6 @@
 Pandora (Another PHP Dependency Injection Container)
 ======
-
+[![Build Status](https://travis-ci.org/hungneox/pandora.svg?branch=master)](https://travis-ci.org/hungneox/pandora)
 
 Installation
 ======
